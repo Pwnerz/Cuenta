@@ -48,5 +48,4 @@ public class Cuenta {
 		 System.out.printf("Ingresando %.2f.",valor);
 		 System.out.println();
 		 }
-	
 }
